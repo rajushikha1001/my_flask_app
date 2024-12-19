@@ -1,6 +1,6 @@
 # my_flask_app
 
-Creating a 3-tier web application in Python involves three distinct layers:
+## Creating a 3-tier web application in Python involves three distinct layers:
 
     Presentation Layer (Frontend) - A web interface that allows users to interact with the application.
     Business Logic Layer (Backend) - Where the core logic of the application is processed.
@@ -16,9 +16,9 @@ Here’s the structure of the application:
     Database (SQLite, accessed using SQLAlchemy).
 
 
-1. Project Structure
+##1. Project Structure
 
-my_flask_app/
+*my_flask_app/
 │
 ├── app/
 │   ├── __init__.py          # Initialize the Flask app
@@ -34,7 +34,7 @@ my_flask_app/
 └── run.py                   # Run the application
 
 
-2. Steps to Run
+##2. Steps to Run
 
     Install Dependencies: Make sure you have Python 3 installed. Then, create a virtual environment and install the dependencies.
 
